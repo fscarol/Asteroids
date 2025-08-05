@@ -1,3 +1,5 @@
 <h2 align="center">ASTEROIDS game built in Python using pygame library</h2>
 <br/>
-![asteroids-carol](https://github.com/user-attachments/assets/786c406a-e587-42fe-9e3a-29f236839aa5)
+
+
+![asteroids-carol](https://github.com/user-attachments/assets/a567ff6d-fbd0-4a98-8eed-eb47c3112a41)
